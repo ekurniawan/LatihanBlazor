@@ -24,7 +24,7 @@ namespace LatihanBlazor.Pages
                 DateOfBirth = new DateTime(1999,10,5),
                 Gender = Gender.Male,
                 Department = new Department{DepartmentId=1,DepartmentName="IT"},
-                PhotoPath = "images/erick.jpg"
+                PhotoPath = "images/erick.png"
             };
 
             Employee e2 = new Employee{
@@ -46,7 +46,7 @@ namespace LatihanBlazor.Pages
                 DateOfBirth = new DateTime(2000,5,5),
                 Gender = Gender.Male,
                 Department = new Department{DepartmentId=1,DepartmentName="IT"},
-                PhotoPath = "images/argo.jpg"
+                PhotoPath = "images/argo.png"
             };
 
             Employee e4 = new Employee{
@@ -57,10 +57,10 @@ namespace LatihanBlazor.Pages
                 DateOfBirth = new DateTime(2000,6,5),
                 Gender = Gender.Male,
                 Department = new Department{DepartmentId=1,DepartmentName="IT"},
-                PhotoPath = "images/cloud.jpg"
+                PhotoPath = "images/cloud.png"
             };
 
-            Employees = new List<Employee>{e1,e2,e3};
+            Employees = new List<Employee>{e1,e2,e3,e4};
         }
     }
 }

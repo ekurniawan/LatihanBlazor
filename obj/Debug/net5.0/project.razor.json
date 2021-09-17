@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": 1162902181,
-        "Kind": "Components.Component",
-        "Name": "LatihanBlazor.Pages.EmployeePage",
-        "AssemblyName": "LatihanBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EmployeePage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LatihanBlazor.Pages.EmployeePage"
-        }
-      },
-      {
-        "HashCode": 1569033760,
-        "Kind": "Components.Component",
-        "Name": "LatihanBlazor.Pages.EmployeePage",
-        "AssemblyName": "LatihanBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LatihanBlazor.Pages.EmployeePage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LatihanBlazor.Pages.EmployeePage",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 200328078,
         "Kind": "Components.Component",
         "Name": "LatihanBlazor.Pages.FetchData",
@@ -136,6 +103,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LatihanBlazor.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1162902181,
+        "Kind": "Components.Component",
+        "Name": "LatihanBlazor.Pages.EmployeePage",
+        "AssemblyName": "LatihanBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EmployeePage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LatihanBlazor.Pages.EmployeePage"
+        }
+      },
+      {
+        "HashCode": 1569033760,
+        "Kind": "Components.Component",
+        "Name": "LatihanBlazor.Pages.EmployeePage",
+        "AssemblyName": "LatihanBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LatihanBlazor.Pages.EmployeePage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LatihanBlazor.Pages.EmployeePage",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -222,6 +222,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LatihanBlazor.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -329010736,
+        "Kind": "Components.Component",
+        "Name": "LatihanBlazor.Shared.NavMenu",
+        "AssemblyName": "LatihanBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LatihanBlazor.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -2026126357,
+        "Kind": "Components.Component",
+        "Name": "LatihanBlazor.Shared.NavMenu",
+        "AssemblyName": "LatihanBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LatihanBlazor.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LatihanBlazor.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
